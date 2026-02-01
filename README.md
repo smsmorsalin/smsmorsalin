@@ -2,6 +2,9 @@
 **Computer Science Student | Tech Enthusiast**<br><br>I am currently pursuing my degree in CSE at **Independent University, Bangladesh**. I love exploring how things work under the hood and building efficient software.<br><br>* 🏫 **Student:** Independent University, Bangladesh (IUB)<br>* 💻 **Major:** Computer Science and Engineering<br>* 🌱 **Learning:** Data Structures, Algorithms, Networking and Cyber Security<br>* 💬 **Ask me about:** Python<br>* 📫 **Reach me:** smsmorsalin1@gmail.com
 
 
+## 🌟 Contributions:
+![snake gif](https://github.com/smsmorsalin/smsmorsalin/blob/output/github-snake-dark.svg)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smsmorsalin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smsmorsalin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smsmorsalin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/morsalinsms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smsmorsalin1@gmail.com) 
 
@@ -24,4 +27,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=smsmorsalin&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
