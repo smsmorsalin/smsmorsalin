@@ -6,7 +6,7 @@
 </h3>
 
 # 💫 About Me:
-**Computer Science Student | Tech Enthusiast**<br><br>I am currently pursuing my degree in CSE at **Independent University, Bangladesh**. I love exploring how things work under the hood and building efficient software.<br><br>* 🏫 **Student:** Independent University, Bangladesh (IUB)<br>* 💻 **Major:** Computer Science and Engineering<br>* 🌱 **Learning:** Data Structures, Algorithms, Networking and Cyber Security<br>* 💬 **Ask me about:** Python<br>* 📫 **Reach me:** smsmorsalin1@gmail.com
+**Computer Science Student | Tech Enthusiast**<br><br>I am currently pursuing my degree in CSE at **Independent University, Bangladesh**. I love exploring how things work under the hood and building efficient software.<br><br>* 🏫 **Student:** Independent University, Bangladesh (IUB)<br>* 💻 **Major:** Computer Science and Engineering<br>* 🌱 **Learning:** Data Structures, Algorithms, Networking, AI and Cyber Security<br>* 💬 **Ask me about:** Python<br>* 📫 **Reach me:** smsmorsalin1@gmail.com
 
 
 ## 🌟 Contributions:
