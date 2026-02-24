@@ -33,7 +33,6 @@
 ### ⏳ Weekly Coding Time
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smsmorsalin&theme=dracula&layout=compact&range=all_time&v=1)](https://wakatime.com/@smsmorsalin)
 <br><br>
-[![wakatime](https://wakatime.com/badge/user/3df21c7c-4db0-4284-a0cb-db69decb69f0.svg?v=1)](https://wakatime.com/@3df21c7c-4db0-4284-a0cb-db69decb69f0)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smsmorsalin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -45,6 +44,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=smsmorsalin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 
-
+[![wakatime](https://wakatime.com/badge/user/3df21c7c-4db0-4284-a0cb-db69decb69f0.svg?v=1)](https://wakatime.com/@3df21c7c-4db0-4284-a0cb-db69decb69f0)
+<br>
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=smsmorsalin.smsmorsalin)
 
