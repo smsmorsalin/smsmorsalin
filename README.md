@@ -40,8 +40,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smsmorsalin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smsmorsalin&theme=react-dark)
 ---
 
 [![wakatime](https://wakatime.com/badge/user/3df21c7c-4db0-4284-a0cb-db69decb69f0.svg?v=1)](https://wakatime.com/@3df21c7c-4db0-4284-a0cb-db69decb69f0)
