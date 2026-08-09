@@ -70,9 +70,10 @@ Java module   4 mins                ░░░░░░░░░░░░░░�
 
 <div align="center">
 
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31yhzz72vuvnvf3yvekawbpua5ru&count=5)](https://open.spotify.com/user/31yhzz72vuvnvf3yvekawbpua5ru)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31yhzz72vuvnvf3yvekawbpua5ru\&count=5)](https://open.spotify.com/user/31yhzz72vuvnvf3yvekawbpua5ru)
 
 </div>
+
 
 
 ## 🤝 Let's Connect
