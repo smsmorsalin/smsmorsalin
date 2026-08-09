@@ -12,9 +12,6 @@
 ## 🌟 Contributions:
 ![snake gif](https://raw.githubusercontent.com/smsmorsalin/smsmorsalin/output/github-snake-dark.svg)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smsmorsalin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smsmorsalin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smsmorsalin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/morsalinsms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smsmorsalin1@gmail.com) 
-
 ### 💻 Coding Profiles:
 
 [![Toph](https://img.shields.io/badge/Toph-2ECC71?logo=codeforces&logoColor=white)](https://toph.co/u/sms_morsalin)
@@ -25,26 +22,58 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=smsmorsalin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=smsmorsalin&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smsmorsalin&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-### ⏳ Weekly Coding Time
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=smsmorsalin&theme=dracula&layout=compact&range=all_time&v=1)](https://wakatime.com/@smsmorsalin)
-<br><br>
+## ⏱️ Coding Activity
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=smsmorsalin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!--START_SECTION:waka-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--END_SECTION:waka-->
 
-### 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smsmorsalin&theme=react-dark)
+<div align="center">
+
+[![WakaTime](https://wakatime.com/badge/user/3df21c7c-4db0-4284-a0cb-db69decb69f0.svg)](https://wakatime.com/@3df21c7c-4db0-4284-a0cb-db69decb69f0)
+
+</div>
+
 ---
 
-[![wakatime](https://wakatime.com/badge/user/3df21c7c-4db0-4284-a0cb-db69decb69f0.svg?v=1)](https://wakatime.com/@3df21c7c-4db0-4284-a0cb-db69decb69f0)
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="./profile/stats.svg" alt="Morsalin's GitHub Stats"/>
+<img width="49%" src="./profile/top-langs.svg" alt="Morsalin's Top Languages"/>
+
+</div>
+
 <br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=smsmorsalin&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+---
+<br>
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating on interesting projects, and connecting with other developers.
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/smsmorsalin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smsmorsalin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/smsmorsalin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/morsalinsms) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smsmorsalin1@gmail.com) 
+
+</div>
+
+<div align="center">
+
+### 💡 `Code. Learn. Build. Repeat.`
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=smsmorsalin.smsmorsalin)
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
+
+
 
