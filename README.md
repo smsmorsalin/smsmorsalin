@@ -27,13 +27,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-Total Time: 13 hrs 3 mins
+Total Time: 7 hrs 48 mins
 
-Java          12 hrs 46 mins        ████████████████████████▒   97.88 %
-XML           11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Markdown      5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Java          7 hrs 33 mins         ████████████████████████░   96.65 %
+XML           10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Markdown      5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 Java module   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
