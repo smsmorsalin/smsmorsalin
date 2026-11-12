@@ -10,8 +10,11 @@ jobs:
     name: Update Coding Activity
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@v0.2.5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
