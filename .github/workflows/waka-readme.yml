@@ -14,7 +14,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: athul/waka-readme@v0.2.5
+      - id: update-wakatime
+        uses: athul/waka-readme@v0.2.5
+        continue-on-error: true
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -23,3 +25,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           BLOCKS: "░▒▓█"
+
+      - name: WakaTime update skipped
+        if: steps.update-wakatime.outcome == 'failure'
+        run: echo "::warning::WakaTime API returned 403/forbidden; skipping README coding activity update for this run."
